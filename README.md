@@ -12,9 +12,9 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 Java JDK 11.
-Docker
 
-.
+Docker.
+
 ## ⚙️ Para rodar
 
 Abra o terminal, na pasta raiz do projeto java e execute o seguitne comando.
@@ -29,7 +29,7 @@ Logo em seguida é so rodar a aplicação Java via Intellij ou outra IDE de sua 
 
 Link do Postman
 ```
-(https://www.postman.com/crimson-robot-668988/workspace/gustavorafaeldev/collection/24358699-07bf5282-b344-4f46-a17a-6283eba77416)
+https://www.postman.com/crimson-robot-668988/workspace/gustavorafaeldev/collection/24358699-07bf5282-b344-4f46-a17a-6283eba77416
 ```
 
 ## 🛠️ Construído com
