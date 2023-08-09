@@ -11,25 +11,27 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
-```
 Java JDK 11.
 Docker
-```
+
 .
 ## ⚙️ Para rodar
 
 Abra o terminal, na pasta raiz do projeto java e execute o seguitne comando.
-```docker-compose up-d`
+```
+docker-compose up-d
+```
+Este comando irá subir um container do PostgreSQL.
+
+Logo em seguida é so rodar a aplicação Java via Intellij ou outra IDE de sua preferência.
 
 ### 🔩 Requisição via POSTMAN
 
+Link do Postman
 ```
-Você precisa usar o postman para realizar a requisição com o método POST, passando a campanha e 
-as datas separadas por vírgula, ex:(14-12-2022, 15-12,2022).
+(https://www.postman.com/crimson-robot-668988/workspace/gustavorafaeldev/collection/24358699-07bf5282-b344-4f46-a17a-6283eba77416)
 ```
-![postman_publi](https://user-images.githubusercontent.com/105467235/215152830-c1fdbae0-d857-4db7-bcf4-7efcbcb29514.png)
 
-![grafico_publi](https://user-images.githubusercontent.com/105467235/215152800-546b5fe6-e701-4b4b-ab2a-518027449c4e.png)
 ## 🛠️ Construído com
 
 * [Java](https://www.java.com/pt-BR/) - A linguagem de programação usada.
